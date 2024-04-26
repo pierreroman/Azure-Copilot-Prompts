@@ -1,6 +1,6 @@
 Did you stop by this repo looking for sample prompts, prompt templates, and Promptbooks for Azure Copilot.
 
-Go here: [Azure Copilot Prompt Samples and Templates](https://github.com/pierreroman/Azure-Copilot-Prompts/tree/main/Prompts){target="_blank"}
+Go here: [Azure Copilot Prompt Samples and Templates](https://github.com/pierreroman/Azure-Copilot-Prompts/tree/main/Prompts){target="_blank"}.
 
 
 # Must Learn for Azure Copilot<br>
