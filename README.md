@@ -4,7 +4,7 @@ ___
 **_NOTE: Microsoft Copilot for Azure (preview) requires registration and is currently available only to approved enterprise customers and partners. For more information, see Limited access to Microsoft Copilot for Azure (preview)._**
 ___
 
-Go here: [Azure Copilot Prompt Samples and Templates](https://github.com/pierreroman/Azure-Copilot-Prompts/tree/main/Prompts)
+For prompt samples, go here: [Azure Copilot Prompt Samples and Templates](https://github.com/pierreroman/Azure-Copilot-Prompts/tree/main/Prompts)
 
 
 # Must Learn for Azure Copilot<br>
