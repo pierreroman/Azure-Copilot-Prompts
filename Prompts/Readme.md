@@ -2,6 +2,10 @@
 
 Prompt engineering is the process of writing, refining and optimizing inputs, or "prompts", to encourage generative artificial intelligence (AI) systems to create specific, high-quality outputs. Prompt engineering helps generative AI models better comprehend and respond to a wide range of queries, from the simple to the highly technical. The basic rule is that good prompts equal good results.
 
+![alt text](images/component-prompt.png)
+
+![alt text](images/promp-example.png)
+
 Prompt engineering is a skill that can be learned and improved over time, by experimenting with different prompts and observing the results. There are also tools and resources that can help users with prompt engineering, such as prompt libraries, prompt generators, or prompt evaluators.
 
 Want to learn more? See:
